@@ -1,11 +1,11 @@
-.Night{
+/* .Night{
     background: #000;
     color: #fff;
 }
 .Day{
     
     color: #000;
-}
+} */
 
 .container{
     display: flex;
@@ -19,5 +19,9 @@
     height: 70px;
     font-size: 30px;
 }
+
+/* body{
+    
+} */
 
 
